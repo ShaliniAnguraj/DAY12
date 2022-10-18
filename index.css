@@ -60,7 +60,7 @@ body {
     background-color: rgb(66, 57, 57);
     height: 100px;
     width: 100px;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     border-radius: 10px;
     -webkit-border-radius: 15px 15px 15px 15px;
